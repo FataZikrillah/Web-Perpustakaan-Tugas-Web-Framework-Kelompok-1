@@ -9,5 +9,5 @@ Proyek ini bertujuan untuk mengembangkan aplikasi web fullstack sebagai bagian d
 |------|-----|
 | Farhan Alfareza | 230212073 |
 | M. Fata Zikrillah | 230212021 |
-| Fajar Affan | NIM 3 |
+| Fajar Affan | 230212007 |
 ---
