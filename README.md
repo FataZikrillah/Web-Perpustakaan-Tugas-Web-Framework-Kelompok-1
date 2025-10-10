@@ -1,7 +1,7 @@
 # 📚 Proyek Kelompok - Pemrograman Fullstack
 
 Selamat datang di repositori proyek kelompok kami untuk mata kuliah **Pemrograman Fullstack**. 
-Proyek ini bertujuan untuk mengembangkan aplikasi web fullstack sebagai bagian dari tugas akhir matakuliah.
+Proyek ini bertujuan untuk mengembangkan aplikasi web fullstack sebagai bagian dari tugas matakuliah.
 
 ## 👨‍💻 Anggota Kelompok
 
